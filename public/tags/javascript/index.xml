@@ -1,0 +1,28 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>javascript - Tag - JVJE website for materialer til undervisning</title>
+        <link>https://csharp.dk/tags/javascript/</link>
+        <description>javascript - Tag - JVJE website for materialer til undervisning</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>jvje@ucl.dk (Jakob V. Jensen)</managingEditor>
+            <webMaster>jvje@ucl.dk (Jakob V. Jensen)</webMaster><lastBuildDate>Mon, 27 Mar 2023 09:58:46 &#43;0200</lastBuildDate><atom:link href="https://csharp.dk/tags/javascript/" rel="self" type="application/rss+xml" /><item>
+    <title>Udviklingsmiljøer - Pensum</title>
+    <link>https://csharp.dk/uddannelser/pbawebudvikling/udviklingsmiljoer/udviklingsmiljoer-pensum/</link>
+    <pubDate>Mon, 27 Mar 2023 09:58:46 &#43;0200</pubDate>
+    <author>Jakob V. Jensen</author>
+    <guid>https://csharp.dk/uddannelser/pbawebudvikling/udviklingsmiljoer/udviklingsmiljoer-pensum/</guid>
+    <description><![CDATA[Unit testing 1.0 Unit test - Basic The following is a basic configuration for the LoveIt theme:
+Note When building the website, you can set a theme by using --theme option. However, we suggest you modify the configuration file (config.toml) and set the theme as the default. 2.4 Create Your First Post Here is the way to create your first post:
+hugo new posts/first_post.md Feel free to edit the post file by adding some sample content and replacing the title value in the beginning of the file.]]></description>
+</item>
+<item>
+    <title>Theme Documentation - Basics</title>
+    <link>https://csharp.dk/uddannelser/pbawebudvikling/udviklingsmiljoer/unittesting/</link>
+    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
+    <author>Jakob V. Jensen</author>
+    <guid>https://csharp.dk/uddannelser/pbawebudvikling/udviklingsmiljoer/unittesting/</guid>
+    <description><![CDATA[Unit testing 1.0 Unit test - Basic The following is a basic configuration for the LoveIt theme:
+Note When building the website, you can set a theme by using --theme option. However, we suggest you modify the configuration file (config.toml) and set the theme as the default. 2.4 Create Your First Post Here is the way to create your first post:
+hugo new posts/first_post.md Feel free to edit the post file by adding some sample content and replacing the title value in the beginning of the file.]]></description>
+</item>
+</channel>
+</rss>

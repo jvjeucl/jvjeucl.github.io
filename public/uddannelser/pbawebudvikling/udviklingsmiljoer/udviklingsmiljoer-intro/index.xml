@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Udviklingsmiljøer - Intro on JVJE website for materialer til undervisning</title>
+    <link>https://csharp.dk/uddannelser/pbawebudvikling/udviklingsmiljoer/udviklingsmiljoer-intro/</link>
+    <description>Recent content in Udviklingsmiljøer - Intro on JVJE website for materialer til undervisning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>jvje@ucl.dk (Jakob V. Jensen)</managingEditor>
+    <webMaster>jvje@ucl.dk (Jakob V. Jensen)</webMaster>
+    <lastBuildDate>Mon, 27 Mar 2023 09:58:46 +0200</lastBuildDate><atom:link href="https://csharp.dk/uddannelser/pbawebudvikling/udviklingsmiljoer/udviklingsmiljoer-intro/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

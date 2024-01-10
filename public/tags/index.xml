@@ -1,0 +1,88 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - JVJE website for materialer til undervisning</title>
+        <link>https://csharp.dk/tags/</link>
+        <description>Tags - Tag - JVJE website for materialer til undervisning</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>jvje@ucl.dk (Jakob V. Jensen)</managingEditor>
+            <webMaster>jvje@ucl.dk (Jakob V. Jensen)</webMaster><lastBuildDate>Mon, 27 Mar 2023 11:52:54 &#43;0200</lastBuildDate><atom:link href="https://csharp.dk/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>datamatiker</title>
+    <link>https://csharp.dk/tags/datamatiker/</link>
+    <pubDate>Mon, 27 Mar 2023 11:52:54 &#43;0200</pubDate>
+    <author>Jakob V. Jensen</author>
+    <guid>https://csharp.dk/tags/datamatiker/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>studiedokumenter</title>
+    <link>https://csharp.dk/tags/studiedokumenter/</link>
+    <pubDate>Mon, 27 Mar 2023 11:52:54 &#43;0200</pubDate>
+    <author>Jakob V. Jensen</author>
+    <guid>https://csharp.dk/tags/studiedokumenter/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>studieordning</title>
+    <link>https://csharp.dk/tags/studieordning/</link>
+    <pubDate>Mon, 27 Mar 2023 11:52:54 &#43;0200</pubDate>
+    <author>Jakob V. Jensen</author>
+    <guid>https://csharp.dk/tags/studieordning/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>pba</title>
+    <link>https://csharp.dk/tags/pba/</link>
+    <pubDate>Mon, 27 Mar 2023 11:26:30 &#43;0200</pubDate>
+    <author>Jakob V. Jensen</author>
+    <guid>https://csharp.dk/tags/pba/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>webudvikling</title>
+    <link>https://csharp.dk/tags/webudvikling/</link>
+    <pubDate>Mon, 27 Mar 2023 11:26:30 &#43;0200</pubDate>
+    <author>Jakob V. Jensen</author>
+    <guid>https://csharp.dk/tags/webudvikling/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>4. semester</title>
+    <link>https://csharp.dk/tags/4.-semester/</link>
+    <pubDate>Mon, 27 Mar 2023 10:37:15 &#43;0200</pubDate>
+    <author>Jakob V. Jensen</author>
+    <guid>https://csharp.dk/tags/4.-semester/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>erfa</title>
+    <link>https://csharp.dk/tags/erfa/</link>
+    <pubDate>Mon, 27 Mar 2023 10:37:15 &#43;0200</pubDate>
+    <author>Jakob V. Jensen</author>
+    <guid>https://csharp.dk/tags/erfa/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>erfa-vejledning</title>
+    <link>https://csharp.dk/tags/erfa-vejledning/</link>
+    <pubDate>Mon, 27 Mar 2023 10:37:15 &#43;0200</pubDate>
+    <author>Jakob V. Jensen</author>
+    <guid>https://csharp.dk/tags/erfa-vejledning/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>vejledning</title>
+    <link>https://csharp.dk/tags/vejledning/</link>
+    <pubDate>Mon, 27 Mar 2023 10:37:15 &#43;0200</pubDate>
+    <author>Jakob V. Jensen</author>
+    <guid>https://csharp.dk/tags/vejledning/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>cypress</title>
+    <link>https://csharp.dk/tags/cypress/</link>
+    <pubDate>Mon, 27 Mar 2023 09:58:46 &#43;0200</pubDate>
+    <author>Jakob V. Jensen</author>
+    <guid>https://csharp.dk/tags/cypress/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

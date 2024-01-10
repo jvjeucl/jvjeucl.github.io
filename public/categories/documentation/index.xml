@@ -1,0 +1,68 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>documentation - Category - JVJE website for materialer til undervisning</title>
+        <link>https://csharp.dk/categories/documentation/</link>
+        <description>documentation - Category - JVJE website for materialer til undervisning</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>jvje@ucl.dk (Jakob V. Jensen)</managingEditor>
+            <webMaster>jvje@ucl.dk (Jakob V. Jensen)</webMaster><lastBuildDate>Mon, 27 Mar 2023 11:52:54 &#43;0200</lastBuildDate><atom:link href="https://csharp.dk/categories/documentation/" rel="self" type="application/rss+xml" /><item>
+    <title>Datamatiker - Studieordning</title>
+    <link>https://csharp.dk/uddannelser/datamatiker/studieordning/</link>
+    <pubDate>Mon, 27 Mar 2023 11:52:54 &#43;0200</pubDate>
+    <author>Jakob V. Jensen</author>
+    <guid>https://csharp.dk/uddannelser/datamatiker/studieordning/</guid>
+    <description><![CDATA[Studieordning 📓 Studieordning - Institutionsdel 📓 Studieordning - Lokal 📓 Studiedokumenter ]]></description>
+</item>
+<item>
+    <title>PBA Webudvikling - Studieordning</title>
+    <link>https://csharp.dk/uddannelser/pbawebudvikling/studieordning/</link>
+    <pubDate>Mon, 27 Mar 2023 11:26:30 &#43;0200</pubDate>
+    <author>Jakob V. Jensen</author>
+    <guid>https://csharp.dk/uddannelser/pbawebudvikling/studieordning/</guid>
+    <description><![CDATA[Studieordning 📓 Studieordning - Institutionsdel 📓 Studieordning - Lokal 📓 Studiedokumenter ]]></description>
+</item>
+<item>
+    <title>Datamatiker - ERFA vejledning</title>
+    <link>https://csharp.dk/uddannelser/datamatiker/erfa/</link>
+    <pubDate>Mon, 27 Mar 2023 10:37:15 &#43;0200</pubDate>
+    <author>Jakob V. Jensen</author>
+    <guid>https://csharp.dk/uddannelser/datamatiker/erfa/</guid>
+    <description><![CDATA[1. Formål med modul-/semesterbeskrivelsen Modul/semesterbeskrivelsen for din uddannelse skal sikre, at der er sammenhæng fra de overordnede lovgivningsmæssige rammer for selve uddannelsen og til de konkrete studieplaner som din underviser udarbejder i undervisningen. Dermed kan du som studerende til hver en tid få et samlet overblik over uddannelsesforløbets studieaktiviteter og læringsmål samt de rettigheder og forpligtelser, der er gældende under dit uddannelsesforløb. Desuden giver det dig mulighed for at orientere dig omkring de forventninger, der stilles til dig undervejs i undervisningen.]]></description>
+</item>
+<item>
+    <title>Udviklingsmiljøer - E2E Testing</title>
+    <link>https://csharp.dk/uddannelser/pbawebudvikling/udviklingsmiljoer/e2etesting/</link>
+    <pubDate>Mon, 27 Mar 2023 09:58:46 &#43;0200</pubDate>
+    <author>Jakob V. Jensen</author>
+    <guid>https://csharp.dk/uddannelser/pbawebudvikling/udviklingsmiljoer/e2etesting/</guid>
+    <description><![CDATA[E2E Testing with Cypress.io Real World App for testing Cypress Guide Cypress GitHub Actions First Test E2E Reference E2E Opgave() ]]></description>
+</item>
+<item>
+    <title>Udviklingsmiljøer - Intro</title>
+    <link>https://csharp.dk/uddannelser/pbawebudvikling/udviklingsmiljoer/udviklingsmiljoer-intro/</link>
+    <pubDate>Mon, 27 Mar 2023 09:58:46 &#43;0200</pubDate>
+    <author>Jakob V. Jensen</author>
+    <guid>https://csharp.dk/uddannelser/pbawebudvikling/udviklingsmiljoer/udviklingsmiljoer-intro/</guid>
+    <description><![CDATA[Intro til udviklingsmiljøer]]></description>
+</item>
+<item>
+    <title>Udviklingsmiljøer - Pensum</title>
+    <link>https://csharp.dk/uddannelser/pbawebudvikling/udviklingsmiljoer/udviklingsmiljoer-pensum/</link>
+    <pubDate>Mon, 27 Mar 2023 09:58:46 &#43;0200</pubDate>
+    <author>Jakob V. Jensen</author>
+    <guid>https://csharp.dk/uddannelser/pbawebudvikling/udviklingsmiljoer/udviklingsmiljoer-pensum/</guid>
+    <description><![CDATA[Unit testing 1.0 Unit test - Basic The following is a basic configuration for the LoveIt theme:
+Note When building the website, you can set a theme by using --theme option. However, we suggest you modify the configuration file (config.toml) and set the theme as the default. 2.4 Create Your First Post Here is the way to create your first post:
+hugo new posts/first_post.md Feel free to edit the post file by adding some sample content and replacing the title value in the beginning of the file.]]></description>
+</item>
+<item>
+    <title>Theme Documentation - Basics</title>
+    <link>https://csharp.dk/uddannelser/pbawebudvikling/udviklingsmiljoer/unittesting/</link>
+    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
+    <author>Jakob V. Jensen</author>
+    <guid>https://csharp.dk/uddannelser/pbawebudvikling/udviklingsmiljoer/unittesting/</guid>
+    <description><![CDATA[Unit testing 1.0 Unit test - Basic The following is a basic configuration for the LoveIt theme:
+Note When building the website, you can set a theme by using --theme option. However, we suggest you modify the configuration file (config.toml) and set the theme as the default. 2.4 Create Your First Post Here is the way to create your first post:
+hugo new posts/first_post.md Feel free to edit the post file by adding some sample content and replacing the title value in the beginning of the file.]]></description>
+</item>
+</channel>
+</rss>

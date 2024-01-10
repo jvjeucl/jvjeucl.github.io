@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>patterns on JVJE website for materialer til undervisning</title>
+    <link>https://csharp.dk/code/patterns/</link>
+    <description>Recent content in patterns on JVJE website for materialer til undervisning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>jvje@ucl.dk (Jakob V. Jensen)</managingEditor>
+    <webMaster>jvje@ucl.dk (Jakob V. Jensen)</webMaster>
+    <lastBuildDate>Mon, 27 Mar 2023 13:56:44 +0200</lastBuildDate><atom:link href="https://csharp.dk/code/patterns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>compositionroot</title>
+      <link>https://csharp.dk/code/patterns/compositionroot/</link>
+      <pubDate>Mon, 27 Mar 2023 13:56:44 +0200</pubDate>
+      <author>jvje@ucl.dk (Jakob V. Jensen)</author>
+      <guid>https://csharp.dk/code/patterns/compositionroot/</guid>
+      <description>Composition Root </description>
+    </item>
+    
+    <item>
+      <title>objectGraph</title>
+      <link>https://csharp.dk/code/patterns/objectgraph/</link>
+      <pubDate>Mon, 27 Mar 2023 13:56:44 +0200</pubDate>
+      <author>jvje@ucl.dk (Jakob V. Jensen)</author>
+      <guid>https://csharp.dk/code/patterns/objectgraph/</guid>
+      <description>Object Graph </description>
+    </item>
+    
+  </channel>
+</rss>

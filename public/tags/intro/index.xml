@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>intro - Tag - JVJE website for materialer til undervisning</title>
+        <link>https://csharp.dk/tags/intro/</link>
+        <description>intro - Tag - JVJE website for materialer til undervisning</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>jvje@ucl.dk (Jakob V. Jensen)</managingEditor>
+            <webMaster>jvje@ucl.dk (Jakob V. Jensen)</webMaster><lastBuildDate>Mon, 27 Mar 2023 09:58:46 &#43;0200</lastBuildDate><atom:link href="https://csharp.dk/tags/intro/" rel="self" type="application/rss+xml" /><item>
+    <title>Udviklingsmiljøer - Intro</title>
+    <link>https://csharp.dk/uddannelser/pbawebudvikling/udviklingsmiljoer/udviklingsmiljoer-intro/</link>
+    <pubDate>Mon, 27 Mar 2023 09:58:46 &#43;0200</pubDate>
+    <author>Jakob V. Jensen</author>
+    <guid>https://csharp.dk/uddannelser/pbawebudvikling/udviklingsmiljoer/udviklingsmiljoer-intro/</guid>
+    <description><![CDATA[Intro til udviklingsmiljøer]]></description>
+</item>
+</channel>
+</rss>

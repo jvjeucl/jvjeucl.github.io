@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>installation - Tag - JVJE website for materialer til undervisning</title>
+        <link>https://csharp.dk/tags/installation/</link>
+        <description>installation - Tag - JVJE website for materialer til undervisning</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>jvje@ucl.dk (Jakob V. Jensen)</managingEditor>
+            <webMaster>jvje@ucl.dk (Jakob V. Jensen)</webMaster><lastBuildDate>Mon, 20 Mar 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://csharp.dk/tags/installation/" rel="self" type="application/rss+xml" /><item>
+    <title>Uddannelser</title>
+    <link>https://csharp.dk/uddannelser/uddannelser/</link>
+    <pubDate>Mon, 20 Mar 2023 21:29:01 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>https://csharp.dk/uddannelser/uddannelser/</guid>
+    <description><![CDATA[Features Performance and SEO <i class="fas fa-rocket fa-fw" aria-hidden="true"></i>&nbsp;Optimized for performance: <sup>99</sup>/<sub>100</sub> on mobile and <sup>100</sup>/<sub>100</sub> on desktop in Google PageSpeed Insights <i class="fab fa-searchengin fa-fw" aria-hidden="true"></i>&nbsp;Optimized SEO performance with a correct SEO SCHEMA based on JSON-LD <i class="fab fa-google fa-fw" aria-hidden="true"></i>&nbsp;Google Analytics supported <i class="far fa-chart-bar fa-fw" aria-hidden="true"></i>&nbsp;Fathom Analytics supported <i class="fas fa-chart-column fa-fw" aria-hidden="true"></i>&nbsp;Plausible Analytics supported <i class="fab fa-yandex-international fa-fw" aria-hidden="true"></i>&nbsp;Yandex Metrica supported <i class="fas fa-sitemap fa-fw" aria-hidden="true"></i>&nbsp;Search engine verification supported (Google, Bind, Yandex and Baidu) <i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>&nbsp;CDN for third-party libraries supported <i class="fas fa-cloud-download-alt fa-fw" aria-hidden="true"></i>&nbsp;Automatically converted images with Lazy Load by lazysizes Appearance and Layout <i class="fas fa-mobile-screen fa-fw" aria-hidden="true"></i>&nbsp;<sup>Desktop</sup>/<sub>Mobile</sub> responsive layout <i class="fas fa-circle-half-stroke fa-rotate-180 fa-fw" aria-hidden="true"></i>&nbsp;<sup>Light</sup>/<sub>Dark</sub> mode <i class="fas fa-layer-group fa-fw" aria-hidden="true"></i>&nbsp;Globally consistent design language <i class="fas fa-ellipsis-h fa-fw" aria-hidden="true"></i>&nbsp;Pagination supported <i class="far fa-list-alt fa-fw" aria-hidden="true"></i>&nbsp;Easy-to-use and self-expanding table of contents <i class="fas fa-language fa-fw" aria-hidden="true"></i>&nbsp;Multilanguage supported and i18n ready <i class="fab fa-css3-alt fa-fw" aria-hidden="true"></i>&nbsp;Beautiful CSS animation ]]></description>
+</item>
+</channel>
+</rss>

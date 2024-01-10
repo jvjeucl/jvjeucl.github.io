@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>cypress - Tag - JVJE website for materialer til undervisning</title>
+        <link>https://csharp.dk/tags/cypress/</link>
+        <description>cypress - Tag - JVJE website for materialer til undervisning</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>jvje@ucl.dk (Jakob V. Jensen)</managingEditor>
+            <webMaster>jvje@ucl.dk (Jakob V. Jensen)</webMaster><lastBuildDate>Mon, 27 Mar 2023 09:58:46 &#43;0200</lastBuildDate><atom:link href="https://csharp.dk/tags/cypress/" rel="self" type="application/rss+xml" /><item>
+    <title>Udviklingsmiljøer - E2E Testing</title>
+    <link>https://csharp.dk/uddannelser/pbawebudvikling/udviklingsmiljoer/e2etesting/</link>
+    <pubDate>Mon, 27 Mar 2023 09:58:46 &#43;0200</pubDate>
+    <author>Jakob V. Jensen</author>
+    <guid>https://csharp.dk/uddannelser/pbawebudvikling/udviklingsmiljoer/e2etesting/</guid>
+    <description><![CDATA[E2E Testing with Cypress.io Real World App for testing Cypress Guide Cypress GitHub Actions First Test E2E Reference E2E Opgave() ]]></description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Udviklingsmiljøer - E2E Testing on JVJE website for materialer til undervisning</title>
+    <link>https://csharp.dk/uddannelser/pbawebudvikling/udviklingsmiljoer/e2etesting/</link>
+    <description>Recent content in Udviklingsmiljøer - E2E Testing on JVJE website for materialer til undervisning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>jvje@ucl.dk (Jakob V. Jensen)</managingEditor>
+    <webMaster>jvje@ucl.dk (Jakob V. Jensen)</webMaster>
+    <lastBuildDate>Mon, 27 Mar 2023 09:58:46 +0200</lastBuildDate><atom:link href="https://csharp.dk/uddannelser/pbawebudvikling/udviklingsmiljoer/e2etesting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://csharp.dk/uddannelser/pbawebudvikling/udviklingsmiljoer/e2etesting/e2e-opgave/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>jvje@ucl.dk (Jakob V. Jensen)</author>
+      <guid>https://csharp.dk/uddannelser/pbawebudvikling/udviklingsmiljoer/e2etesting/e2e-opgave/</guid>
+      <description>E2E-Testing opgave Opgaven tager udgangspunkt i en ToDo app.
+Der findes MANGE på fx VuejsExamples.com
+En app i kunne tage udgangspunkt i er:
+Project-Planner-Vuejs
+Men i bestemmer selv.
+Lav en test, som kontrollerer, at brugeren kan tilføje en ny opgave til listen.
+Lav en test, som kontrollerer, at brugeren kan fjerne en opgave fra listen.
+Lav en test, som kontrollerer, at brugeren kan redigere en eksisterende opgave.
+Lav en test, som kontrollerer, at applikationen kan håndtere tilfældet, hvor brugeren forsøger at tilføje en tom opgave.</description>
+    </item>
+    
+  </channel>
+</rss>
