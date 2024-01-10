@@ -1,4 +1,178 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://csharp.dk/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'JVJE website for materialer til undervisning'
 theme = 'loveit'
+# default amount of posts in each pages
+paginate = 12
+# google analytics code [UA-XXXXXXXX-X]
+googleAnalytics = ""
+# copyright description used only for seo schema
+copyright = ""
+
+# whether to use robots.txt
+enableRobotsTXT = true
+# whether to use git commit log
+enableGitInfo = true
+# whether to use emoji code
+enableEmoji = true
+
+# ignore some build errors
+ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
+
+# Author config
+[author]
+  name = "Jakob V. Jensen"
+  email = "jvje@ucl.dk"
+  link = ""
+# Menu config
+[menu]
+[[menu.main]]
+    weight = 1
+    identifier = "code"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = "💦"
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Code"
+    url = "/code/"
+    # title will be shown when you hover on this menu link
+    title = "Code"
+  [[menu.main]]
+    weight = 2
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = "✉️"
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Posts"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = "Posts"
+  [[menu.main]]
+    weight = 3
+    identifier = "tags"
+    pre = "☁️"
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = "Tags"
+  [[menu.main]]
+    weight = 4
+    identifier = "categories"
+    pre = "🧬"
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = ""
+[[menu.main]]
+    weight = 5
+    identifier = "uddannelser"
+    pre = "🧑‍🏫"
+    post = ""
+    name = "Uddannelser"
+    url = "/uddannelser/"
+    title = ""
+    [[menu.main]]
+    weight = 6
+    identifier = "fag"
+    pre = "📒"
+    post = ""
+    name = "Fag"
+    url = "/fag/"
+    title = ""
+    [[menu.main]]
+    weight = 7
+    identifier = "links"
+    pre = "🧬"
+    post = ""
+    name = "Links"
+    url = "/links/"
+    title = ""
+    [[menu.main]]
+    weight = 8
+    identifier = "todo"
+    pre = "📨"
+    post = ""
+    name = "Todo"
+    url = "/todo/"
+    title = ""
+
+    [params]
+  # site default theme ["auto", "light", "dark"]
+  defaultTheme = "auto"
+  # public git repo url only then enableGitInfo is true
+  gitRepo = "work-app"
+  # which hash function used for SRI, when empty, no SRI is used
+  # ["sha256", "sha384", "sha512", "md5"]
+  # ["sha256", "sha384", "sha512", "md5"]
+  fingerprint = ""
+  # date format
+  dateFormat = "01-02-2006"
+  # website title for Open Graph and Twitter Cards
+  title = "JVJE"
+  # website description for RSS, SEO, Open Graph and Twitter Cards
+ 
+  description = "JVJE"
+  # website images for Open Graph and Twitter Cards
+  images = ["/logo.png"]
+
+        [languages.en.params.social]
+        GitHub = "jvjeucl"
+        Email = "jvje@ucl.dk"
+        RSS = true
+
+# Home page config
+  [params.home]
+    # amount of RSS pages
+    rss = 10
+    # Home page profile
+    [params.home.profile]
+      enable = true
+      # Gravatar Email for preferred avatar in home page
+      gravatarEmail = ""
+      # URL of avatar shown in home page
+      avatarURL = "/images/2-04.png"
+      # title shown in home page (HTML format is supported)
+      title = ""
+      # subtitle shown in home page (HTML format is supported)
+      subtitle = "JVJE website for materialer til undervisning"
+      # whether to use typeit animation for subtitle
+      typeit = true
+      # whether to show social links
+      social = true
+      # disclaimer (HTML format is supported)
+      disclaimer = ""
+    # Home page posts
+    [params.home.posts]
+      enable = true
+      # special amount of posts in each home posts page
+      paginate = 6
+
+  # Header config
+  [params.header]
+    # desktop header mode ["fixed", "normal", "auto"]
+    desktopMode = "fixed"
+    # mobile header mode ["fixed", "normal", "auto"]
+    mobileMode = "auto"
+    # Header title config
+    [params.header.title]
+      # URL of the LOGO
+      logo = ""
+      # title name
+      name = "JVJE - UCL"
+      # you can add extra information before the name (HTML format is supported), such as icons
+      pre = "<i class='fa-solid fa-wand-magic-sparkles fa-fw' aria-hidden='true'></i>"
+      # you can add extra information after the name (HTML format is supported), such as icons
+      post = ""
+      # whether to use typeit animation for title name
+      typeit = false
+
+[params.page.toc]
+# whether to enable the table of the contents
+enable = true
+# whether to keep the static table of the contents in front of the post
+keepStatic = false
+# whether to make the table of the contents in the sidebar automatically collapsed
+auto = true
+
+custom_css = ["css/embed-gist-dark-theme.css"]
